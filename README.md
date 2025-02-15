@@ -3,31 +3,6 @@
 ![Девушка программист]([https://picsum.photos/800/600](https://pictures.pibig.info/uploads/posts/2023-04/1681131445_pictures-pibig-info-p-programmist-risunok-pinterest-1.png))
 ***
 -->
-> # 💬 Обо мне
-> Фронтенд разработчик
->
-> > ⚡ Стек технологий:
-> > 
-> > > HTML5
-> > > 
-> > > CSS, Sass
-> > > 
-> > > JavaScript, TypeScript
-> > > 
-> > > React
-> > > 
-> > > Webpack, Gulp
-> > > 
-> > > REST API
-> > > 
-> > > BEM
-> > > 
-> > > Git
-> > > 
-> > > Figma, Pixso
-> > > 
-> > > Agile, SCRUM
-***
 
 
 <!--
